@@ -1,1 +1,2 @@
 print("malihe")
+print("malihe")
